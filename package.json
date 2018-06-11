@@ -1,1 +1,30 @@
-{"name": "ibo_page", "version": "10.10.112", "private": true, "devDependencies": {"del": "latest", "express": "^4.14.0", "express-http-proxy": "latest", "gulp": "latest", "gulp-angular-templatecache": "latest", "gulp-concat": "latest", "gulp-copy": "latest", "gulp-if": "latest", "gulp-inject": "latest", "gulp-less": "latest", "gulp-minify-css": "latest", "gulp-ng-annotate": "latest", "gulp-ng-constant": "latest", "gulp-refresh": "latest", "gulp-uglify": "latest", "gulp-wrap": "latest", "karma": "latest", "lodash": "latest", "merge-stream": "latest", "minimist": "latest", "requirejs": "latest", "run-sequence": "latest", "st": "latest"}}
+{
+  "name": "ibo_page", 
+  "version": "10.10.113", 
+  "private": true, 
+  "devDependencies": {
+    "del": "latest", 
+    "express": "^4.14.0", 
+    "express-http-proxy": "latest", 
+    "gulp": "latest", 
+    "gulp-angular-templatecache": "latest", 
+    "gulp-concat": "latest", 
+    "gulp-copy": "latest", 
+    "gulp-if": "latest", 
+    "gulp-inject": "latest", 
+    "gulp-less": "latest", 
+    "gulp-minify-css": "latest", 
+    "gulp-ng-annotate": "latest", 
+    "gulp-ng-constant": "latest", 
+    "gulp-refresh": "latest", 
+    "gulp-uglify": "latest", 
+    "gulp-wrap": "latest", 
+    "karma": "latest", 
+    "lodash": "latest", 
+    "merge-stream": "latest", 
+    "minimist": "latest", 
+    "requirejs": "latest", 
+    "run-sequence": "latest", 
+    "st": "latest"
+  }
+}
