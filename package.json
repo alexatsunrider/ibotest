@@ -1,6 +1,6 @@
 {
   "name": "ibo_page", 
-  "version": "10.10.115", 
+  "version": "10.10.116", 
   "private": true, 
   "devDependencies": {
     "del": "latest", 
